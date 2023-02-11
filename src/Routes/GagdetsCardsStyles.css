@@ -1,0 +1,33 @@
+.pic > h1 {
+  padding-top: 40px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  padding-bottom: 0;
+}
+
+.pic > h2 {
+  padding-top: 0;
+  margin-top: 0;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+.pic > p {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.pic > p > a {
+  color: rgb(0, 131, 212);
+  font-family: "Inter", sans-serif;
+}
+
+.pic > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}

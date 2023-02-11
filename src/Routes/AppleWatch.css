@@ -1,0 +1,50 @@
+.applewatchlogo > h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  padding-bottom: 0;
+  font-size: 2.6vw;
+  text-align: center;
+}
+
+.picapplewatch {
+  margin-left: 1rem;
+  width: 38rem;
+  height: fit-content;
+  transform: translate(20px, 9rem);
+}
+.picapplewatch > h1 {
+  padding-top: 0;
+  margin-top: 0;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+.picapplewatch > h2 {
+  padding-top: 0;
+  margin-top: 0;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+.picapplewatch > p {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.picapplewatch > p > a {
+  color: rgb(0, 131, 212);
+  font-family: "Inter", sans-serif;
+}
+
+.picapplewatch > img {
+  display: block;
+  margin-top: 8rem;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+.picapplewatch {
+  margin-top: -11rem;
+}

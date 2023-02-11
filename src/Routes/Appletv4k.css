@@ -1,0 +1,33 @@
+.headerss > h2 {
+  padding-top: 0;
+  margin-top: 0;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+}
+
+.picappletv4k > p {
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 400;
+}
+.picappletv4k {
+  margin-left: 1rem;
+  width: 38rem;
+  height: fit-content;
+}
+.picappletv4k > p > a {
+  color: rgb(0, 131, 212);
+  font-family: "Inter", sans-serif;
+}
+
+.picappletv4k > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  margin-top: 3rem;
+}
+.appletv4ksetupremorte > img {
+  margin-left: 6rem;
+}

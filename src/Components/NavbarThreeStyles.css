@@ -1,0 +1,15 @@
+.NavbarThreeHeader {
+  background-color: rgb(250, 250, 250);
+  border-top: 1.5px solid rgb(201, 201, 201);
+  font-family: "Quicksand", sans-serif;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 110px;
+  padding-right: 110px;
+  text-align: center;
+}
+
+.shopiphone {
+  color: #149dd8;
+  font-family: "Quicksand", sans-serif;
+}
